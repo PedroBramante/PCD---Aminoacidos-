@@ -1,2 +1,2 @@
-# PCD---Amino-cidos-
+# PCD---Aminoacidos-
 Sequência de aminoácidos e suas características
